@@ -1,3 +1,4 @@
+/////////////////////
 const myName = 'Nicolas';
 const myAge = 12;
 const suma = (a: number, b: number) => {
